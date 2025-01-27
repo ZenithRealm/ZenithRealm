@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Automation
 - 📫 How to reach me : BRO why you want to reach me?
 - 😄 Pronouns: i'm just a boy, not a transformer
-- ⚡ Fun fact: i'm live
+- ⚡ Fun fact: i'm alive
 
 <!---
 ZenithRealm/ZenithRealm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
